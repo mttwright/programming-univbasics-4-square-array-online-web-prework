@@ -5,7 +5,7 @@ def square_array(array)
     new_array[count] = array[count] * array[count]
     count +=
   end
-  end
+end
 
 
 puts square_array([1,2,3])
